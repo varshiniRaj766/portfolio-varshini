@@ -1,0 +1,24 @@
+#b {
+    columns: pink;
+    text-align: center;
+    background-color: blue;
+}
+.trail h2{
+    color: pink;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
+.btn:hover{
+    color:blue;
+    background-color: brown;
+    border: 2px solid red;
+    border-radius: 20px;
+    
+}
+.outer h1{
+    border: 3x solid;
+    margin:10px 100px 10px ;
+    height: 20px;
+    padding: 100 px;
+}
